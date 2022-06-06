@@ -24,6 +24,8 @@ function App() {
     backgroundRepeat: 'no-repeat',
   };
 
+  console.log('hi')
+
   return (
     <div style={sectionStyle}>
     
